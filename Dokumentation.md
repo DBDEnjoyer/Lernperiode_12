@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/efa47fb8-3517-42a1-9cd8-9efefbb64b3c" /># Lernperiode_12
+# Lernperiode_12
 
 
 # Grobplanung
