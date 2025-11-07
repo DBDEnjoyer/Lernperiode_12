@@ -34,10 +34,5 @@ Heute habe ich erfolgreich Kontakt zu einem Unternehmen aufgenommen und konnte w
 
 ---
 
-# Reflexion Arbeitstag 
-
-Heute habe ich den Schwerpunkt auf qualitativ hochwertige Bewerbungen gelegt, da ich aus den bisherigen Resultaten gelernt habe, dass präzise und individuelle Schreiben entscheidend sind. Ich habe zwei Bewerbungen verfasst, die deutlich ausführlicher und besser auf die jeweiligen Unternehmen abgestimmt sind. Dabei habe ich meinen Schreibstil überarbeitet, klarere Formulierungen verwendet und die Motivation stärker betont. Danach habe ich eine LeetCode-Aufgabe gelöst und verschiedene Lösungsansätze ausprobiert. Abschließend konnte ich die C50-Testaufgabe erfolgreich bearbeiten. Insgesamt war der Tag sehr produktiv und von sichtbaren Fortschritten geprägt.  
-
----
 
 
