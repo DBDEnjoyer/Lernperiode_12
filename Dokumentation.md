@@ -38,7 +38,7 @@ Heute habe ich erfolgreich Kontakt zu einem Unternehmen aufgenommen und konnte w
 
 Heute habe ich den Schwerpunkt auf qualitativ hochwertige Bewerbungen gelegt, da ich aus den bisherigen Resultaten gelernt habe, dass präzise und individuelle Schreiben entscheidend sind. Ich habe zwei Bewerbungen verfasst, die deutlich ausführlicher und besser auf die jeweiligen Unternehmen abgestimmt sind. Dabei habe ich meinen Schreibstil überarbeitet, klarere Formulierungen verwendet und die Motivation stärker betont. Danach habe ich eine LeetCode-Aufgabe gelöst und verschiedene Lösungsansätze ausprobiert. Abschließend konnte ich die C50-Testaufgabe erfolgreich bearbeiten. Insgesamt war der Tag sehr produktiv und von sichtbaren Fortschritten geprägt.  
 
-# Arbeitspakete 
+# Tagesplanung – 14.11.2025
 
 - [x] **Planung schreiben (13:00–13:20):** Ich erstelle die Wochenplanung, formuliere Ziele und strukturiere meine Aufgaben für den Nachmittag.  
 - [x] **Bewerbung 1 – ausführlich (13:20–15:00):** Ich verfasse ein detailliertes, individuell angepasstes Bewerbungsschreiben für ein ausgewähltes Unternehmen. Ich gehe gezielt auf Stellenprofil, Anforderungen und meine Stärken ein. Anschließend überprüfe ich Sprache, Struktur und Formatierung.  
