@@ -38,9 +38,7 @@ Heute habe ich erfolgreich Kontakt zu einem Unternehmen aufgenommen und konnte w
 
 Heute habe ich den Schwerpunkt auf qualitativ hochwertige Bewerbungen gelegt, da ich aus den bisherigen Resultaten gelernt habe, dass präzise und individuelle Schreiben entscheidend sind. Ich habe zwei Bewerbungen verfasst, die deutlich ausführlicher und besser auf die jeweiligen Unternehmen abgestimmt sind. Dabei habe ich meinen Schreibstil überarbeitet, klarere Formulierungen verwendet und die Motivation stärker betont. Danach habe ich eine LeetCode-Aufgabe gelöst und verschiedene Lösungsansätze ausprobiert. Abschließend konnte ich die C50-Testaufgabe erfolgreich bearbeiten. Insgesamt war der Tag sehr produktiv und von sichtbaren Fortschritten geprägt.  
 
-# Wochenplanung – KW 45 
-
-## Arbeitspakete 
+# Arbeitspakete 
 
 - [x] **Planung schreiben (13:00–13:20):** Ich erstelle die Wochenplanung, formuliere Ziele und strukturiere meine Aufgaben für den Nachmittag.  
 - [x] **Bewerbung 1 – ausführlich (13:20–15:00):** Ich verfasse ein detailliertes, individuell angepasstes Bewerbungsschreiben für ein ausgewähltes Unternehmen. Ich gehe gezielt auf Stellenprofil, Anforderungen und meine Stärken ein. Anschließend überprüfe ich Sprache, Struktur und Formatierung.  
@@ -48,6 +46,6 @@ Heute habe ich den Schwerpunkt auf qualitativ hochwertige Bewerbungen gelegt, da
 - [x] **LeetCode (16:20–17:00):** Ich löse eine LeetCode-Aufgabe auf mittlerem Level, teste mehrere Lösungsvarianten und dokumentiere meine Vorgehensweise kurz.  
 - [x] **C50-Testaufgabe – kurz (17:00–17:15):** Ich bearbeite eine verkürzte C50-Aufgabe und kontrolliere das Ergebnis anhand der Lösungshinweise.  
 
-## Reflexion Arbeitstag 
+# Reflexion Arbeitstag 
 
 Heute konnte ich meine Zeit gut strukturieren und meine Aufgaben planmäßig erledigen. Zu Beginn habe ich die Wochenplanung geschrieben, was mir geholfen hat, den Überblick zu behalten. Danach habe ich zwei ausführliche Bewerbungen verfasst, bei denen ich mich besonders um klare Formulierungen und eine überzeugendere Darstellung meiner Motivation bemüht habe. Ich habe viel Zeit in die Individualisierung gesteckt, damit die Schreiben professioneller wirken als frühere Versionen. Anschließend habe ich eine LeetCode-Aufgabe gelöst und zum Schluss eine kurze C50-Aufgabe bearbeitet. Insgesamt war der Tag sehr produktiv und gut organisiert.
