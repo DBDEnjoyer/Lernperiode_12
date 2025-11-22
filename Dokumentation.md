@@ -49,3 +49,30 @@ Heute habe ich den Schwerpunkt auf qualitativ hochwertige Bewerbungen gelegt, da
 # Reflexion Arbeitstag 
 
 Heute konnte ich meine Zeit gut strukturieren und meine Aufgaben planmäßig erledigen. Zu Beginn habe ich die Wochenplanung geschrieben, was mir geholfen hat, den Überblick zu behalten. Danach habe ich zwei ausführliche Bewerbungen verfasst, bei denen ich mich besonders um klare Formulierungen und eine überzeugendere Darstellung meiner Motivation bemüht habe. Ich habe viel Zeit in die Individualisierung gesteckt, damit die Schreiben professioneller wirken als frühere Versionen. Anschließend habe ich eine LeetCode-Aufgabe gelöst und zum Schluss eine kurze C50-Aufgabe bearbeitet. Insgesamt war der Tag sehr produktiv und gut organisiert.
+
+
+# Tagesplanung – Freitag (13:00–17:30)
+
+## Arbeitspakete
+
+- [x] **Stellen suchen & Unternehmen kontaktieren (13:00–14:30):**  
+      Ich recherchiere aktiv nach offenen Praktikumsstellen in der Region.  
+      Ich rufe mindestens 3 Unternehmen an oder schreibe professionelle Anfragen per E-Mail an Firmen, die Praktikanten suchen oder potenziell aufnehmen könnten.  
+      Ziel: Direkte Rückmeldungen einholen und Chancen abklären.
+
+- [x] **Bewerbung 1 – ausführlich (14:30–15:45):**  
+      Ich verfasse eine ausführliche Bewerbung für ein Unternehmen, das ich interessant finde.  
+      Das Schreiben wird vollständig individualisiert, sprachlich verbessert und klar strukturiert.
+
+- [x] **Bewerbung 2 – ausführlich (15:45–16:45):**  
+      Ich überarbeite ein zweites Bewerbungsschreiben gründlich, passe Motivation und Argumentation an das Unternehmen an und überprüfe alle Dokumente.
+
+- [x] **LeetCode (16:45–17:10):**  
+      Ich löse eine LeetCode-Aufgabe (mittleres Niveau) und dokumentiere meine Lösung kurz.
+
+- [x] **C50-Testaufgabe – kurz (17:10–17:30):**  
+      Ich bearbeite eine kurze C50-Aufgabe und kontrolliere das Ergebnis anhand der Musterlösung.
+
+# Reflexion Arbeitstag
+
+Heute habe ich den ersten Teil des Tages genutzt, um aktiv Kontakt zu Unternehmen aufzunehmen. Das Recherchieren von offenen Praktikumsstellen und die direkten telefonischen Anfragen haben mir gezeigt, wie wichtig persönlicher Kontakt ist. Einige Firmen haben mir hilfreiche Hinweise gegeben, wodurch ich eine bessere Vorstellung meiner Chancen erhalten habe. Danach habe ich zwei ausführliche Bewerbungen erstellt bzw. überarbeitet und dabei besonders auf Klarheit und Professionalität geachtet. Die LeetCode-Aufgabe half mir, meine Problemlösungsfähigkeit weiter zu trainieren, und die kurze C50-Aufgabe konnte ich ebenfalls erfolgreich bearbeiten. Insgesamt war es ein produktiver und gut strukturierter Tag.
