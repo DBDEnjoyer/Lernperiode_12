@@ -51,7 +51,7 @@ Heute habe ich den Schwerpunkt auf qualitativ hochwertige Bewerbungen gelegt, da
 Heute konnte ich meine Zeit gut strukturieren und meine Aufgaben planmäßig erledigen. Zu Beginn habe ich die Wochenplanung geschrieben, was mir geholfen hat, den Überblick zu behalten. Danach habe ich zwei ausführliche Bewerbungen verfasst, bei denen ich mich besonders um klare Formulierungen und eine überzeugendere Darstellung meiner Motivation bemüht habe. Ich habe viel Zeit in die Individualisierung gesteckt, damit die Schreiben professioneller wirken als frühere Versionen. Anschließend habe ich eine LeetCode-Aufgabe gelöst und zum Schluss eine kurze C50-Aufgabe bearbeitet. Insgesamt war der Tag sehr produktiv und gut organisiert.
 
 
-# Tagesplanung – 19.11 (13:00–17:30)
+# Tagesplanung – 19.11
 
 ## Arbeitspakete
 
@@ -78,7 +78,7 @@ Heute konnte ich meine Zeit gut strukturieren und meine Aufgaben planmäßig erl
 Heute habe ich den ersten Teil des Tages genutzt, um aktiv Kontakt zu Unternehmen aufzunehmen. Das Recherchieren von offenen Praktikumsstellen und die direkten telefonischen Anfragen haben mir gezeigt, wie wichtig persönlicher Kontakt ist. Einige Firmen haben mir hilfreiche Hinweise gegeben, wodurch ich eine bessere Vorstellung meiner Chancen erhalten habe. Danach habe ich zwei ausführliche Bewerbungen erstellt bzw. überarbeitet und dabei besonders auf Klarheit und Professionalität geachtet. Die LeetCode-Aufgabe half mir, meine Problemlösungsfähigkeit weiter zu trainieren, und die kurze C50-Aufgabe konnte ich ebenfalls erfolgreich bearbeiten. Insgesamt war es ein produktiver und gut strukturierter Tag.
 
 
-# Tagesplanung – 28.11. (13:00–17:30)
+# Tagesplanung – 28.11. 
 
 ## Arbeitspakete
 
