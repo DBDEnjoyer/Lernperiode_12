@@ -24,7 +24,7 @@ Heute habe ich erfolgreich Kontakt zu einem Unternehmen aufgenommen und konnte w
 
 ---
 
-# Tagesplanung – 07.11.2025
+# Tagesplanung – 05.11.2025
 
 ## Arbeitspakete
 - [x] **Bewerbung 1:** Zwischen 13:00 und 15:00 Uhr verfasse ich eine ausführliche und individuell angepasste Bewerbung für ein Unternehmen. Ich achte besonders auf den Bezug zur Stellenausschreibung und überprüfe das Bewerbungsschreiben sorgfältig auf Sprache, Struktur und Wirkung.  
@@ -38,7 +38,7 @@ Heute habe ich erfolgreich Kontakt zu einem Unternehmen aufgenommen und konnte w
 
 Heute habe ich den Schwerpunkt auf qualitativ hochwertige Bewerbungen gelegt, da ich aus den bisherigen Resultaten gelernt habe, dass präzise und individuelle Schreiben entscheidend sind. Ich habe zwei Bewerbungen verfasst, die deutlich ausführlicher und besser auf die jeweiligen Unternehmen abgestimmt sind. Dabei habe ich meinen Schreibstil überarbeitet, klarere Formulierungen verwendet und die Motivation stärker betont. Danach habe ich eine LeetCode-Aufgabe gelöst und verschiedene Lösungsansätze ausprobiert. Abschließend konnte ich die C50-Testaufgabe erfolgreich bearbeiten. Insgesamt war der Tag sehr produktiv und von sichtbaren Fortschritten geprägt.  
 
-# Tagesplanung – 14.11.2025
+# Tagesplanung – 12.11.2025
 
 - [x] **Planung schreiben (13:00–13:20):** Ich erstelle die Wochenplanung, formuliere Ziele und strukturiere meine Aufgaben für den Nachmittag.  
 - [x] **Bewerbung 1 – ausführlich (13:20–15:00):** Ich verfasse ein detailliertes, individuell angepasstes Bewerbungsschreiben für ein ausgewähltes Unternehmen. Ich gehe gezielt auf Stellenprofil, Anforderungen und meine Stärken ein. Anschließend überprüfe ich Sprache, Struktur und Formatierung.  
@@ -51,7 +51,7 @@ Heute habe ich den Schwerpunkt auf qualitativ hochwertige Bewerbungen gelegt, da
 Heute konnte ich meine Zeit gut strukturieren und meine Aufgaben planmäßig erledigen. Zu Beginn habe ich die Wochenplanung geschrieben, was mir geholfen hat, den Überblick zu behalten. Danach habe ich zwei ausführliche Bewerbungen verfasst, bei denen ich mich besonders um klare Formulierungen und eine überzeugendere Darstellung meiner Motivation bemüht habe. Ich habe viel Zeit in die Individualisierung gesteckt, damit die Schreiben professioneller wirken als frühere Versionen. Anschließend habe ich eine LeetCode-Aufgabe gelöst und zum Schluss eine kurze C50-Aufgabe bearbeitet. Insgesamt war der Tag sehr produktiv und gut organisiert.
 
 
-# Tagesplanung – Freitag (13:00–17:30)
+# Tagesplanung – 19.11 (13:00–17:30)
 
 ## Arbeitspakete
 
@@ -76,3 +76,34 @@ Heute konnte ich meine Zeit gut strukturieren und meine Aufgaben planmäßig erl
 # Reflexion Arbeitstag
 
 Heute habe ich den ersten Teil des Tages genutzt, um aktiv Kontakt zu Unternehmen aufzunehmen. Das Recherchieren von offenen Praktikumsstellen und die direkten telefonischen Anfragen haben mir gezeigt, wie wichtig persönlicher Kontakt ist. Einige Firmen haben mir hilfreiche Hinweise gegeben, wodurch ich eine bessere Vorstellung meiner Chancen erhalten habe. Danach habe ich zwei ausführliche Bewerbungen erstellt bzw. überarbeitet und dabei besonders auf Klarheit und Professionalität geachtet. Die LeetCode-Aufgabe half mir, meine Problemlösungsfähigkeit weiter zu trainieren, und die kurze C50-Aufgabe konnte ich ebenfalls erfolgreich bearbeiten. Insgesamt war es ein produktiver und gut strukturierter Tag.
+
+
+# Tagesplanung – 28.11. (13:00–17:30)
+
+## Arbeitspakete
+
+- [x] **Stellen suchen & Unternehmen kontaktieren (13:00–14:30):**  
+      Ich recherchiere aktiv neue Praktikumsstellen.  
+      Ich rufe mindestens 3–5 Unternehmen an oder schreibe professionelle E-Mails, um mich nach offenen Stellen zu erkundigen.  
+      Ziel: Direkten Kontakt herstellen und Chancen erhöhen.
+
+- [x] **Bewerbung 1 – ausführlich (14:30–15:45):**  
+      Ich verfasse oder überarbeite eine vollständige, individuell angepasste Bewerbung für ein Unternehmen, das ich heute gefunden habe.  
+      Fokus: Struktur, Motivation, klare Argumentation und sprachliche Qualität.
+
+- [x] **Bewerbung 2 – ausführlich (15:45–16:45):**  
+      Ich überarbeite eine weitere Bewerbung gründlich und verbessere Motivation, Aufbau und Formulierungen.  
+      Ziel: höhere Qualität als frühere Bewerbungen.
+
+- [x] **LeetCode-Aufgabe (16:45–17:05):**  
+      Ich löse eine Aufgabe auf mittlerem Level und dokumentiere die Vorgehensweise kurz.
+
+- [x] **C50 – kurze Aufgabe (17:05–17:30):**  
+      Ich erledige eine kurze C50-Testaufgabe und prüfe das Ergebnis mit der Musterlösung.
+
+
+---
+
+# Reflexion Arbeitstag
+
+Heute habe ich zuerst aktiv nach neuen Praktikumsstellen gesucht und mehrere Unternehmen telefonisch oder per E-Mail kontaktiert. Das hat mir geholfen, schneller Einschätzungen über mögliche Chancen zu bekommen. Danach habe ich zwei Bewerbungen ausführlicher bearbeitet und besonders auf eine klarere Struktur und eine bessere Darstellung meiner Motivation geachtet. Die LeetCode-Aufgabe hat meine Problemlösefähigkeiten weiter gestärkt, und die kurze C50-Aufgabe konnte ich effizient lösen. Insgesamt war der Tag gut geplant, produktiv und ich habe alle Ziele innerhalb der Zeit erreicht.
