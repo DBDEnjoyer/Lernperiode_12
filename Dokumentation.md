@@ -107,3 +107,33 @@ Heute habe ich den ersten Teil des Tages genutzt, um aktiv Kontakt zu Unternehme
 # Reflexion Arbeitstag
 
 Heute habe ich zuerst aktiv nach neuen Praktikumsstellen gesucht und mehrere Unternehmen telefonisch oder per E-Mail kontaktiert. Das hat mir geholfen, schneller Einschätzungen über mögliche Chancen zu bekommen. Danach habe ich zwei Bewerbungen ausführlicher bearbeitet und besonders auf eine klarere Struktur und eine bessere Darstellung meiner Motivation geachtet. Die LeetCode-Aufgabe hat meine Problemlösefähigkeiten weiter gestärkt, und die kurze C50-Aufgabe konnte ich effizient lösen. Insgesamt war der Tag gut geplant, produktiv und ich habe alle Ziele innerhalb der Zeit erreicht.
+
+
+# Tagesplanung – 19.12 (13:00–17:30)
+
+## Arbeitspakete
+
+- [x] **Stellen suchen & Unternehmen kontaktieren (13:00–14:15):**  
+      Ich recherchiere aktiv nach offenen Praktikumsstellen.  
+      Ich rufe mehrere Unternehmen an oder schreibe gezielte E-Mails, um mich nach freien Stellen oder Praktikumsmöglichkeiten zu erkundigen.
+
+- [x] **Bewerbung 1 – ausführlich (14:15–15:30):**  
+      Ich verfasse eine ausführliche und individuell angepasste Bewerbung für ein ausgewähltes Unternehmen.  
+      Dabei achte ich besonders auf eine klare Struktur, gute Argumentation und korrekte Sprache.
+
+- [x] **Bewerbung 2 – ausführlich (15:30–16:30):**  
+      Ich überarbeite oder verfasse eine zweite Bewerbung und verbessere Motivation, Aufbau und Formulierungen.
+
+- [x] **LeetCode-Aufgabe (16:30–16:55):**  
+      Ich löse eine LeetCode-Aufgabe auf mittlerem Schwierigkeitsgrad und halte meinen Lösungsweg kurz fest.
+
+- [x] **LeetCode-Aufgabe 2 (16:55–17:30):**  
+      Ich löse eine LeetCode-Aufgabe auf mittlerem Schwierigkeitsgrad und halte meinen Lösungsweg kurz fest.
+
+
+---
+
+# Reflexion Arbeitstag
+
+Heute habe ich mich zuerst darauf konzentriert, neue Praktikumsstellen zu finden und aktiv Kontakt zu Unternehmen aufzunehmen. Durch Telefonate und E-Mails konnte ich direkt Informationen über offene Stellen erhalten. Anschließend habe ich zwei Bewerbungen ausführlich bearbeitet und besonders auf Qualität und Individualität geachtet. Die LeetCode-Aufgabe half mir, mein logisches Denken weiter zu trainieren. Zum Schluss konnte ich noch eine kurze C50-Aufgabe erfolgreich abschließen. Insgesamt war der Tag gut strukturiert, produktiv und ich konnte meine geplanten Ziele umsetzen.
+
